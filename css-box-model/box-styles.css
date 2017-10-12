@@ -17,3 +17,13 @@ p {
     margin-bottom: 50px; 
     margin-top: 25px;
 }
+
+div {
+    color:#FFF;
+    background-color: #5995DA;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 2px solid #5d6063;
+    border-radius: 5px;
+}
